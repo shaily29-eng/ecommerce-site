@@ -21,7 +21,7 @@ Building a e-commerce platform using MongoDB, Express.js, React, and Node.js. Th
 - **Authentication:** JWT (JSON Web Tokens)
 - **Real-time Communication:** Socket.IO
 - **Payment Gateway:** PayPal API integration
-- **Deployment:** Netlify 
+- **Deployment:** Render 
 
 
 ## Running in local machine
